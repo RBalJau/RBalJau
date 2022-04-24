@@ -10,7 +10,8 @@ Multiplatform app developer student
 *   ✉️  You can contact me at [r.baljau@gmail.com](mailto:r.baljau@gmail.com)
 *   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Dog and nature lover### Skills<p align="left">
+*   ⚡  Dog and nature lover
+### Skills<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
@@ -20,10 +21,7 @@ Multiplatform app developer student
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                     </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
+### Socials<p align="left">
                           
                       <a href="https://discord.com/users/Scrappa#1499" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
@@ -31,7 +29,8 @@ Multiplatform app developer student
                           
                       <a href="https://www.linkedin.com/in/ruben-balboa-jaurena/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/BaljauDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      <a href="https://www.twitter.com/BaljauDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/baljaudev"><img src="https://github-readme-stats.vercel.app/api?username=baljaudev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baljaudev's GitHub stats" /></a><a
                       href="http://www.github.com/baljaudev"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=baljaudev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
