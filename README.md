@@ -9,7 +9,7 @@ Multiplatform app developer student
 
 * 🌍  I'm based in Madrid, Spain
 * ✉️  You can contact me at [r.baljau@gmail.com](mailto:r.baljau@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Java and JavaScript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Dog and nature lover
 
