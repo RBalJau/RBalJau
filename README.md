@@ -1,7 +1,10 @@
 Hi <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" /> My name is Rubén
+
 ======================
 
-Always learning
+Always learning  
+
+<img align="center" alt="Android" width="55" src="https://nexenstial.com/assets/images/java.gif" /> 
 
 ---------------
 
